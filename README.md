@@ -24,14 +24,5 @@ Data Files
 - One olist_sellers_dataset.csv that demonstrates the sellers' information (e.g. seller ID, sellers' city)
 - One product_category_name_translation2 that demonstrates the translation of product category name, from Brazilian to English
 
-
-
-
 ## Purpose of the Project
-The beneficial stakeholders would be the potential investors who own or will purchase a property in Washington and plan to list it on Airbnb. 
-With the dashboard, some of their concerns could be addressed before the investment:
-- How much should I expect to list my property? (by checking the price range/ mean price) 
-- How many competitors are around/ similar to my property? (by checking the number of competitors)
-- How many minimum and maximum nights should I expect to set for my property? (by checking the percentage of the max & min nights)
-- How many of my competitors are superhost? (by checking the superhost rate)
-- What are the average review scores for my competitors and location scores for my property? (by checking the average scores for each)
+The beneficial stakeholders would be the management level staff as well as marketing department at Olist. With the dashboard, they would be able to understand how the overall business went over the past years, having the a clear direction where to improve and also targeting the customers.
