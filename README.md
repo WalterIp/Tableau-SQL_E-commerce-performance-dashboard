@@ -1,4 +1,4 @@
-# **The biggest E-commerce Platform (Olist) in Brazil Performance Dashboard**
+# **Olist (the biggest shopping platform in Brazil) Performance Dashboard**
 
 ## Background Information
 
