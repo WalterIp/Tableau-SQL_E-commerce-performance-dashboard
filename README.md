@@ -25,4 +25,4 @@ Data Files
 - One product_category_name_translation2 that demonstrates the translation of product category name, from Brazilian to English
 
 ## Purpose of the Project
-The beneficial stakeholders would be the management level staff as well as marketing department at Olist. With the dashboard, they would be able to understand how the overall business went over the past years, having the a clear direction where to improve and also targeting the customers.
+The beneficial stakeholders would be the management level staff as well as marketing department at Olist (th biggest shopping platform in Brazil). With the dashboard, they would be able to understand how the overall business went over the past years, having the a clear direction where to improve and also targeting the customers.
